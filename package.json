@@ -1,0 +1,26 @@
+{
+  "name": "igenerate",
+  "version": "1.0.0",
+  "description": "creates templates for writing unit test cases using Jasmine Framework",
+  "main": "fileReader.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "auto",
+    "generate",
+    "unit",
+    "tests",
+    "jasmine",
+    "jasmine",
+    "tests",
+    "jasmine",
+    "unit",
+    "tests",
+    "frontend",
+    "unit",
+    "tests"
+  ],
+  "author": "Praveen Dumpala, Aditya Kishore",
+  "license": "ISC"
+}
